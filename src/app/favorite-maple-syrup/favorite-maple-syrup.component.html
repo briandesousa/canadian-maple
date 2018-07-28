@@ -1,0 +1,9 @@
+<p style="margin-top: 20px;">What is your favorite Canadian maple syrup?</p>
+
+<div class="card float-left" style="width: 14rem; margin: 10px;" *ngFor="let mapleSyrup of mapleSyrupOptions">
+  <img class="card-img-top" src="{{mapleSyrup.imageUrl}}" alt="">
+  <div class="card-body">
+    <h5 class="card-title"></h5>
+    <p class="card-text">{{mapleSyrup.name}}</p>
+  </div>
+</div>

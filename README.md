@@ -1,4 +1,8 @@
-# CanadianMaple
+# Canadian Maple
+
+This is a simple Angular 6 demo application that retrieves data from the https://ca.openfoodfacts.org Open API.
+
+This app has been tested on Node v10.6.0.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
