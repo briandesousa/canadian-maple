@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c674e677-0afa-4dbd-ba75-9ffc78bcf0f7/resourceGroups/PayAsYouGoResourceGroup/providers/Microsoft.Web/sites/canadianmaple",
+    "appService.deploySubpath": "dist\\canadian-maple"
+}
